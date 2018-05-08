@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@mars/heroku-js-runtime-env": "^3.0.2",
+    "cors": "^2.8.4",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-bootstrap": "^0.32.1",
